@@ -1,0 +1,77 @@
+
+
+- Registration
+- Forgot password
+- Change password
+
+
+- Three type of roles
+	Admin
+	Developer
+	Reviewer
+	Application Users	
+
+	
+What Admin will do
+
+Developer Management: Create, edit, activate/Deactivate, delete, change password and Search developer accounts
+Reviewer Management: Create, edit, activate/Deactivate, delete, change password and Search reviewer accounts
+Team Management: Create Team name, Edit Team name, Deactivate Team name, Delete, search Team name, link developers to a Team, unlink developers to a Team.
+Application Management: List of application, search based on filters. Approve/reject an application, Delete an application, Reports, Can see all information associated with an application.
+
+
+- Category management: Create, Edit, deactivate, delete, search application categories
+- Checklist management: A set of standard checklist which we can link per application category.
+- Device Type Management: We will add them manually in Db and will use the reference wherever required.
+- OS management: We will add them manually in Db and will use the reference wherever required.
+- Application status management: We will keep direct reference in table. (application status means : pending, approved, rejected etc)
+- Linking of reviewer to a application category: Admin can link reviewers while creating their profile for which category they will work.
+- Log information
+- Edit profile
+- Change his own password/reset password.
+
+Developer:
+
+1- List of Team members in a Team. Only Team lead can delete or add a developer in the team.
+2- Create an application and upload the details.
+3- Change password
+4 Edit profile
+
+
+Reviewer:
+
+1- List of application which he has to review.
+2- Mark comments against each checklist while approving/rejecting an application
+3- Change password
+4- Edit profile
+
+
+Application users:
+Can download
+can rate
+can add an application to faviourate
+can share it to SNS
+Can comment
+Can register
+can change password
+Can edit profile
+
+
+
+In General:
+Home page: 
+	Banner
+	Logo
+	List of 5 Top rated application
+	List of 5 popular application
+	Recent comment posted to an application
+	application of the Day
+
+Category based application Listing
+Application page
+		Description
+		Reviews
+		Rating
+		Screen shots
+		Videos
+		Download

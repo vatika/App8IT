@@ -1,0 +1,30 @@
+.sj-accordion-menu{margin:0
+0}.sj-accordion-menu
+a{text-decoration:none;background:none;font-family:arial}.sj-accordion-menu a:hover,
+.sj-accordion-menu a:visited,
+.sj-accordion-menu a:active,
+.sj-accordion-menu a:focus{background:none}.sj-accordion-menu
+ul{list-style:none !important;padding:0px
+!important;margin:0px
+!important}.sj-accordion-menu
+li{cursor:pointer;background:none !important}.sj-accordion-menu>li>.sj-item-wrapper{height:25px}.sj-accordion-menu>li>.sj-item-wrapper
+a{line-height:25px;font-size:12px;font-weight:bold}.sj-accordion-menu li .sj-item-wrapper .sj-menu-button{width:16px;height:16px;margin:9px
+5px 0px 5px;overflow:hidden}.sj-accordion-menu  li .sj-ul-wrapper{display:none}.sj-accordion-menu  li ul li .sj-item-wrapper{height:25px}.sj-accordion-menu  li ul li .sj-item-wrapper
+a{background:none;padding-left:13px;line-height:25px}.sj-accordion-menu li:last-child,.sj-accordion-menu>li.last{border-bottom:none}.sj-ul-wrapper > ul
+a{color:#666}.sj-ul-wrapper > ul a:hover{color:#7B96CF}.sj-accordion-menu li .sj-ul-wrapper .sj-item-wrapper .sj-menu-link{padding:0}.sj-ul-wrapper > ul.level2
+a{color:#7B96CF}.sj-ul-wrapper > ul.level2 a:hover{color:#666}.sj-ul-wrapper>ul.level2{padding-left:5px !important}.sj-accordion-menu li.level2.opened > .sj-item-wrapper a,
+.sj-accordion-menu li.level4.opened > .sj-item-wrapper a,
+.sj-accordion-menu li.level2 > .sj-item-wrapper a:hover,
+.sj-accordion-menu li.level4 > .sj-item-wrapper a:hover,
+.sj-accordion-menu li.level1 > .sj-item-wrapper a,
+.sj-accordion-menu li.level3 > .sj-item-wrapper
+a{color:#7B96CF}.sj-accordion-menu li.level1.opened > .sj-item-wrapper a,
+.sj-accordion-menu li.level3.opened > .sj-item-wrapper a,
+.sj-accordion-menu li.level1 > .sj-item-wrapper a:hover,
+.sj-accordion-menu li.level3 > .sj-item-wrapper a:hover,
+.sj-accordion-menu li.level2 > .sj-item-wrapper a,
+.sj-accordion-menu li.level4 > .sj-item-wrapper
+a{color:#666}.rtl .sj-accordion-menu li .sj-item-wrapper .sj-menu-link{float:right}.rtl .sj-accordion-menu li .sj-item-wrapper .sj-menu-button{float:left}.rtl .sj-accordion-menu
+li{padding:0
+5px 0 0px !important}.rtl .sj-ul-wrapper>ul.level2{padding:0
+5px 0 0 !important}
